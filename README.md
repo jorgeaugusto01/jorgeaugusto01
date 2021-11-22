@@ -33,6 +33,11 @@
   
   <code><img height="20" title="React Native" src="https://github.com/jorgeaugusto01/techicons/blob/main/react-native.png?raw=true"></code>
   
+- My technologies Interest:  
+  
+  - React and Python languages.
+  - Data Science applied to the stock market.
+  
 
 
 Last Edited on: 22/11/2021
