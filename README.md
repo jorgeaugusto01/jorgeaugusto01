@@ -7,7 +7,7 @@
 
 ## I'm a Software Developer  
 
-- I’m Software developer, experienced with many programming languages and technologies. Currently working with the following stack: 
+- Experienced with many programming languages and technologies. Currently working with the following stack: 
 
   <code><img height="20" title="Java Script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,11 +29,11 @@
   <code><img height="20" title="TA-lib" src="https://www.sqlbi.com/okviz/wp-content/uploads/sites/261/2019/01/candlestick-icon.svg"></code>
   <code><img height="20" title="BeatifulSoup" src="https://it-s.com/wp-content/uploads/2021/03/beautiful-soup-4-or-funthon.png"></code>
 
-- Currently Learning: 
+- #### Currently Learning: 
   
   <code><img height="20" title="React Native" src="https://github.com/jorgeaugusto01/techicons/blob/main/react-native.png?raw=true"></code>
   
-- My technologies Interest:  
+- #### My technologies Interest:  
   
   - React and Python languages.
   - Data Science applied to the stock market.
