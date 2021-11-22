@@ -38,6 +38,10 @@
   - React and Python languages.
   - Data Science applied to the stock market.
   
+- #### Portfolio:  
+  
+  - https://www.assetsmarketcapital.com/
+  
 
 
 Last Edited on: 22/11/2021
